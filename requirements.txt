@@ -1,1 +1,22 @@
+# Core ML & Deep Learning
+torch>=2.0.0
+torchaudio>=2.0.0
+transformers>=4.40.0
+librosa>=0.10.0
+
+# Data handling
+numpy>=1.25.0
+pandas>=2.1.0
+datasets>=2.14.0
+
+# Machine Learning metrics & utils
+scikit-learn>=1.3.0
+tqdm>=4.66.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.12.2
+
+# Optional utils
+google-colab>=2.0.0
 
