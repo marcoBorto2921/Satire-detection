@@ -97,7 +97,7 @@ The following table summarizes the performance of the unimodal and multimodal mo
 | Model                          | Accuracy | F1-score | Cohen’s Kappa |
 |--------------------------------|---------|----------|---------------|
 | **text_training**            | 0.825   | **0.824** | 0.649         |
-| **aaudio_training**           | 0.799   | **0.798** | 0.598         |
+| **audio_training**           | 0.799   | **0.798** | 0.598         |
 | **Multimodal: Late Fusion**     | 0.849   | **0.849** | 0.698         |
 | **Multimodal: Cross Attention**    | 0.842   | **0.842**    | 0.684         |
 
@@ -107,8 +107,8 @@ After retraining the best models from cross-validation on the full dataset, thei
 
 | Model                          | Accuracy | F1-score | Cohen’s Kappa |
 |--------------------------------|---------|----------|---------------|
-| BERT fine-tuned                | 0.896   | 0.895    | 0.792         |
-| HuBERT fine-tuned              | 0.804   | 0.798    | 0.609         |
+| text_training                | 0.896   | 0.895    | 0.792         |
+| audio_training            | 0.804   | 0.798    | 0.609         |
 | Multimodal: Late Fusion        | 0.917   | 0.917    | 0.834         |
 | **Multimodal: Cross Attention** | 0.947   | **0.948** | 0.894         |
 
