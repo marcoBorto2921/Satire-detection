@@ -84,8 +84,6 @@ Researchers interested in accessing the dataset can request it by contacting the
 
 - **Marco Bortolotti** – marco03.bortolotti@edu.unife.it
 
-Requests will be considered for **research purposes only** and may require signing a data usage agreement.
-
 
 
 ## Results / Expected Performance
