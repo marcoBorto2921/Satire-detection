@@ -75,6 +75,16 @@ The multimodal dataset was created for satire detection in Italian and includes 
 
 This structure ensures robust model training and evaluation, minimizing bias from speaker or channel-specific features.
 
+### Access to Dataset
+
+The dataset used in this project is **not publicly available** due to privacy restrictions.  
+Researchers interested in accessing the dataset can request it by contacting the author:
+
+- **Marco Bortolotti** – marco03.bortolotti@edu.unife.it
+
+Requests will be considered for **research purposes only** and may require signing a data usage agreement.
+
+
 
 ## Results / Expected Performance
 
