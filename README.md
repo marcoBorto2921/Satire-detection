@@ -16,7 +16,9 @@ A key contribution of this project is the **creation of a multimodal dataset** c
 The dataset is **not publicly available** due to privacy restrictions, but **researchers can request access** by contacting the author.
 Note: The notebooks and scripts are ready to run, but they **require access to the dataset**. Without it, the code cannot be executed.
 
-The project is optimized for execution on **Google Colab**, making it easy to reproduce experiments without local setup.
+The project is optimized for execution on **Google Colab**, which allows you to easily reproduce experiments without a local setup.  
+Using Colab also enables access to **free GPU resources**, but the notebooks can also be run locally on a PC if a suitable Python environment and hardware are available.
+
 
 
 ## Project Structure
