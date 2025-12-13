@@ -87,7 +87,7 @@ The following table summarizes the performance of the unimodal and multimodal mo
 | **text_training**            | 0.825   | **0.824** | 0.649         |
 | **aaudio_training**           | 0.799   | **0.798** | 0.598         |
 | **Multimodal: Late Fusion**     | 0.849   | **0.849** | 0.698         |
-| **Multimodal: Cross Attention **    | 0.842   | **0.842**    | 0.684         |
+| **Multimodal: Cross Attention**    | 0.842   | **0.842**    | 0.684         |
 
 ### External Dataset Results
 
