@@ -116,6 +116,18 @@ After retraining the best models from cross-validation on the full dataset, thei
 - Cross Attention fusion achieves the highest performance on the external dataset, demonstrating strong generalization.
 - The text-only model (BERT fine-tuned) performs better than the audio-only model (HuBERT fine-tuned), but combining both modalities yields a significant improvement.
 
+---
+
+## Author & Contact
+
+**Marco Bortolotti**  
+MSc in Artificial Intelligence, Data Science and Big Data  
+University of Ferrara  
+
+If you are interested in the dataset or in collaborating on this project,  
+feel free to contact me at:
+
+📧 **marco03.bortolotti@edu.unife.it**
 
 
 
