@@ -127,7 +127,7 @@ University of Ferrara
 If you are interested in the dataset or in collaborating on this project,  
 feel free to contact me at:
 
-📧 **marco03.bortolotti@edu.unife.it**
+ **marco03.bortolotti@edu.unife.it**
 
 
 
